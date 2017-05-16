@@ -1,6 +1,3 @@
-
-
-
 -- Create a database called `burgers_db`.
 
 CREATE DATABASE burgers_db;
